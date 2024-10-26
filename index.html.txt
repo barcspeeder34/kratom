@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="contact.html">Contact</a>
+            <a href="product1.html">Product 1</a>
+            <a href="product2.html">Product 2</a>
+            <a href="product3.html">Product 3</a>
+            <a href="product4.html">Product 4</a>
+            <a href="product5.html">Product 5</a>
+            <a href="product6.html">Product 6</a>
+            <a href="product7.html">Product 7</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Welcome to our website! We offer a range of high-quality products that you’ll love. Explore our selection and feel free to contact us if you have any questions.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 My Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
